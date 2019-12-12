@@ -17,6 +17,7 @@ class App extends Component {
           Click
         </button>
         <p>{this.props.items.length}</p>
+        <p>Just addin' a lil note here because git isn't recognizing my changes :\</p>
       </div>
     );
   }
